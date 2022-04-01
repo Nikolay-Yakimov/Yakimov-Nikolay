@@ -1,4 +1,5 @@
 @Component
+
 public class ItIsMyStory {
 
     private final String name = "Nikolay Yakimov";
