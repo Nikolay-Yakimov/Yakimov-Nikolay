@@ -24,7 +24,7 @@ public class ItIsMyStory {
 
 
     public List interests() {
-        return List.of("Java", "Spring", "MySQL", "HTML5", "CSS", "Bootstrap");
+        return List.of("Java", "Spring","Spring Security", "MySQL", "HTML5", "CSS", "Bootstrap");
     }
 
     @NotNull
