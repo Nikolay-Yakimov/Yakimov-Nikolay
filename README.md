@@ -3,7 +3,7 @@
 public class ItIsMyStory {
 
     private final String name = "Nikolay Yakimov";
-    private int age = 37;
+    private int age = 39;
     private final String address = "Svishtov 3 str., Sofia, Bulgaria";
     private final String hobby = "Enthusiast Developer";
 
